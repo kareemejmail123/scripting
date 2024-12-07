@@ -1,0 +1,2 @@
+# scripting
+open world
